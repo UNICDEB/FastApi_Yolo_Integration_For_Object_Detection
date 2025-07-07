@@ -1,2 +1,4 @@
 # FastApi_Yolo_Integration_For_Object_Detection
 FastApi_Yolo_Integration_For_Object_Detection
+
+pip install fastapi uvicorn ultralytics opencv-python pillow
